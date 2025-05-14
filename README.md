@@ -26,3 +26,5 @@ ecommerce/
 ### 🛒 Cart Page
 ![image](https://github.com/user-attachments/assets/0ce2eef2-bcc7-46ab-8cf3-b75947601f84)
 
+MYSQL Workbench
+![image](https://github.com/user-attachments/assets/bcbc3ef7-7dd3-41b5-a308-590dfd57ffe5)
