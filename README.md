@@ -14,14 +14,9 @@ This is a full-stack e-commerce website built using:
 ## Folder Structure
 ecommerce/
 ├── public/
-│   ├── index.html
-│   ├── cart.html
-│   ├── styles.css
-│   ├── script.js
-│   └── cart.js
+       index.html, cart.html,styles.css,script.js, cart.js
 ├── ecommerce-backend/
-│   ├── server.js
-│   ├── package.json
+        server.js, package.json
 
 ## Demo Screenshots
 
